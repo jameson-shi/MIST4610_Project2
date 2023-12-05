@@ -1,5 +1,4 @@
-
-# MIST4610_Project1
+# MIST4610_Project2
 
 ## Team Name
 39217 Group 4
