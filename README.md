@@ -75,7 +75,7 @@ An examination of the incident counts by borough reveals that the Bronx and Broo
 <img width="792" alt="Screenshot 2023-12-05 at 3 18 41 PM" src="https://github.com/ackerber/MIST4610_Project2/assets/95188765/796a4917-0dc7-4c8b-ac7b-b1664f7ca53e">
 
 
-The bar chart depicting the most common precincts corroborates this observation, with seven of the top 20 precincts situated in Brooklyn, and seven located in the Bronx. Furthermore, Staten Island only registers one precinct within the top 20, specifically ranking at number 18. Further analysis of these shooting incidents illustrates specific precincts serving as hotspots within the Brooklyn borough. Precincts 75, 73, and 67 emerge as the areas with the highest incidence rates within all of New York, with all three happening to be in Brooklyn, signifying a need for intensified police presence and targeted intervention strategies in these precincts. 
+The bar chart depicting the most common precincts corroborates this observation, with eight of the top 20 precincts situated in Brooklyn, and eight located in the Bronx. Furthermore, Staten Island only registers one precinct within the top 20, specifically ranking at number 18. Further analysis of these shooting incidents illustrates specific precincts serving as hotspots within the Brooklyn borough. Precincts 75, 73, and 67 emerge as the areas with the highest incidence rates within all of New York, with all three happening to be in Brooklyn, signifying a need for intensified police presence and targeted intervention strategies in these precincts. 
 
 
 ## Manipulation of the Data Set:
