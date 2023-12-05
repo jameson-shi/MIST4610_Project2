@@ -46,9 +46,12 @@ Question: How has the frequency of NYPD shooting incidents varied by time of day
 
 Importance: It is important to understand the temporal patterns of NYPD shooting incidents for law enforcement and community safety. Analyzing patterns based on the time of day and week can highlight trends that may not be immediately visible. For instance, if certain times are more prone to incidents, police can increase patrols or security accordingly. Temporal analysis can also help in understanding the effectiveness of crime prevention strategies over time and in making decisions based on the data for future measures from the NYPD. This approach can lead to a more proactive approach rather than reactive, potentially reducing the frequency and impact of these incidents.
 
+![unnamed](https://github.com/jameson-shi/MIST4610_Project2/assets/132717492/09cf5cc7-294b-4c98-9691-2fa197167a9f)
+
 
 The line chart from the first image illustrates NYPD shooting incidents by time of day, year, and borough. The data indicates that the Bronx and Brooklyn have the highest frequency of incidents, particularly during late night to early morning hours. This suggests a pattern where these hours might require heightened police attention. Also, Staten Island consistently shows the lowest incident count, indicating it may not require the same level of police security as the other boroughs. This temporal analysis can assist in assigning patrol schedules and public safety initiatives to the times when they are most needed.
 
+![unnamed-3](https://github.com/jameson-shi/MIST4610_Project2/assets/132717492/67809863-6eaa-417d-a79d-597ac4f8d545)
 
 
 The bar chart from the second image presents NYPD shooting incidents by month and borough. The visualization reveals that the summer months, particularly July and August, see a spike in incidents across all boroughs, with the Bronx and Brooklyn again leading in frequency. This seasonal trend could be caused due to a variety of factors, including increased social activity and gatherings during warmer months. Since there are lower incidences in colder months, it suggests a potential seasonal impact on crime rates. Law enforcement can use this information to anticipate seasonal variations in incidents and prepare accordingly, perhaps by reallocating resources during peak months to address the increased frequency of shootings.
@@ -59,7 +62,12 @@ Question: What are the spatial trends and hotspots of NYPD shooting incidents ac
 
 Importance: Understanding the spatial distribution of NYPD shooting incidents across boroughs is critical for law enforcement to allocate resources effectively and address public safety concerns. Identifying hotspots can guide the deployment of police forces, enhancing their presence in areas prone to such incidents. Additionally, recognizing the precincts with the highest occurrence of incidents within each borough aids in targeted interventions and strategic resource allocation. 
 
+![unnamed-2](https://github.com/jameson-shi/MIST4610_Project2/assets/132717492/af4ee3e5-2285-458a-af3d-1a07d532ea7b)
+
+
 An examination of the incident counts by borough reveals that the Bronx and Brooklyn exhibit the highest number of shooting incidents, while Staten Island reports the fewest incidents. Based on the volume and the size of the data points, it is clear that more attention should be focused on these boroughs experiencing more instances of shootings. It is clear from this visualization that Staten Island is relatively safer than the other boroughs, meaning resources can be better allocated to the surrounding boroughs. 
+
+![unnamed-4](https://github.com/jameson-shi/MIST4610_Project2/assets/132717492/adac3803-3a31-450e-ad19-9bb156bb67ea)
 
 The bar chart depicting the most common precincts corroborates this observation, with seven of the top 20 precincts situated in Brooklyn, and seven located in the Bronx. Furthermore, Staten Island only registers one precinct within the top 20, specifically ranking at number 18. Further analysis of these shooting incidents illustrates specific precincts serving as hotspots within the Brooklyn borough. Precincts 73, 67, and 79 emerge as the areas with the highest incidence rates within all of New York, with all three happening to be in Brooklyn, signifying a need for intensified police presence and targeted intervention strategies in these precincts. 
 
