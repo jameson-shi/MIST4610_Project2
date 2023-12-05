@@ -46,7 +46,7 @@ Question: How has the frequency of NYPD shooting incidents varied by time of day
 
 Importance: It is important to understand the temporal patterns of NYPD shooting incidents for law enforcement and community safety. Analyzing patterns based on the time of day and week can highlight trends that may not be immediately visible. For instance, if certain times are more prone to incidents, police can increase patrols or security accordingly. Temporal analysis can also help in understanding the effectiveness of crime prevention strategies over time and in making decisions based on the data for future measures from the NYPD. This approach can lead to a more proactive approach rather than reactive, potentially reducing the frequency and impact of these incidents.
 
-![unnamed](https://github.com/jameson-shi/MIST4610_Project2/assets/132717492/09cf5cc7-294b-4c98-9691-2fa197167a9f)
+![unnamed](https://github.com/jameson-shi/MIST4610_Project2/assets/132717492/a9a7f5d5-ff30-497f-848a-4400ddd4cb24)
 
 
 The line chart from the first image illustrates NYPD shooting incidents by time of day, year, and borough. The data indicates that the Bronx and Brooklyn have the highest frequency of incidents, particularly during late night to early morning hours. This suggests a pattern where these hours might require heightened police attention. Also, Staten Island consistently shows the lowest incident count, indicating it may not require the same level of police security as the other boroughs. This temporal analysis can assist in assigning patrol schedules and public safety initiatives to the times when they are most needed.
