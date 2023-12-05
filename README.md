@@ -74,3 +74,6 @@ The bar chart depicting the most common precincts corroborates this observation,
 
 ## Manipulation of the Data Set:
 There was no need for us to manipulate the data, but we did ensure that all data points were standardized. Standardization involves transforming data into usable information for analysis. It must be quantifiable, meaningful, and interpretable data that is free of any duplicate or irrelevant entries. Inaccuracies in this process could hinder the analysis of this data set and lead to false conclusions. Additionally, we ensured that all data entries were complete and double-checked that their format was consistent throughout.
+
+## Tableau Packaged Workbook
+The packaged workbook with the displayed visualizations is included in this repository.
