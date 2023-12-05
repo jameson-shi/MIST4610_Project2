@@ -18,27 +18,28 @@ Each entry within this dataset encapsulates a distinct shooting incident transpi
 
 The dataset features multiple dimensions mirroring diverse aspects of the incidents, such as:
 
-Incident ID: Number (Unique identifier for each shooting incident)
-Occurrence Date: Date (Date of the shooting incident)
-Occurrence Time: Time (Time of the shooting incident)
-Borough: String (Location within NYC where the incident occurred)
-Location Description: String (Description of the incident location)
-Precinct: Number (Police precinct associated with the incident)
-Jurisdiction Code: Number (Code specifying jurisdiction details)
-Classification Description: String (Description of incident classification)
-Additional Location Details: String (Further details about the incident location)
-Statistical Murder Flag: Boolean (Indicator if the incident resulted in a murder)
-Suspect Age Group: String (Age group of the suspect involved)
-Suspect Sex: String (Gender of the suspect involved)
-Suspect Race: String (Race of the suspect involved)
-Victim Age Group: String (Age group of the victim involved)
-Victim Sex: String (Gender of the victim involved)
-Victim Race: String (Race of the victim involved)
-X Coordinate: Number (Spatial coordinate X)
-Y Coordinate: Number (Spatial coordinate Y)
-Latitude: Number (Latitude of incident location)
-Longitude: Number (Longitude of incident location)
-Lon_Lat: String (Combined longitude and latitude information)
+Incident ID: Number (Unique identifier for each shooting incident)  
+Occurrence Date: Date (Date of the shooting incident)  
+Occurrence Time: Time (Time of the shooting incident)  
+Borough: String (Location within NYC where the incident occurred)  
+Location Description: String (Description of the incident location)  
+Precinct: Number (Police precinct associated with the incident)  
+Jurisdiction Code: Number (Code specifying jurisdiction details)  
+Classification Description: String (Description of incident classification)  
+Additional Location Details: String (Further details about the incident location)  
+Statistical Murder Flag: Boolean (Indicator if the incident resulted in a murder)  
+Suspect Age Group: String (Age group of the suspect involved)  
+Suspect Sex: String (Gender of the suspect involved)  
+Suspect Race: String (Race of the suspect involved)  
+Victim Age Group: String (Age group of the victim involved)  
+Victim Sex: String (Gender of the victim involved)  
+Victim Race: String (Race of the victim involved)  
+X Coordinate: Number (Spatial coordinate X)  
+Y Coordinate: Number (Spatial coordinate Y)  
+Latitude: Number (Latitude of incident location)  
+Longitude: Number (Longitude of incident location)  
+Lon_Lat: String (Combined longitude and latitude information)  
+
 This dataset serves as a valuable resource for the public, facilitating an exploration of the nature and patterns of shooting incidents and criminal activities in New York City. For additional details about the dataset, kindly refer to the attached data footnotes.
 
 ## Question 1
@@ -74,11 +75,11 @@ An examination of the incident counts by borough reveals that the Bronx and Broo
 <img width="792" alt="Screenshot 2023-12-05 at 3 18 41 PM" src="https://github.com/ackerber/MIST4610_Project2/assets/95188765/796a4917-0dc7-4c8b-ac7b-b1664f7ca53e">
 
 
-The bar chart depicting the most common precincts corroborates this observation, with eight of the top 20 precincts situated in Brooklyn, and eight located in the Bronx. Furthermore, Staten Island only registers one precinct within the top 20, specifically ranking at number 18. Further analysis of these shooting incidents illustrates specific precincts serving as hotspots within the Brooklyn borough. Precincts 75, 73, and 67 emerge as the areas with the highest incidence rates within all of New York, with all three happening to be in Brooklyn, signifying a need for intensified police presence and targeted intervention strategies in these precincts. 
+The bar chart depicting the most common precincts corroborates this observation, with seven of the top 20 precincts situated in Brooklyn, and seven located in the Bronx. Furthermore, Staten Island only registers one precinct within the top 20, specifically ranking at number 18. Further analysis of these shooting incidents illustrates specific precincts serving as hotspots within the Brooklyn borough. Precincts 75, 73, and 67 emerge as the areas with the highest incidence rates within all of New York, with all three happening to be in Brooklyn, signifying a need for intensified police presence and targeted intervention strategies in these precincts. 
 
 
-## Manipulation of the Data set:
-There was little need for us to manipulate the data, but some rows were removed for possible misclassification. There were two incidents that were spatially located in the middle of Manhattan but were labeled as being in the Bronx, so those were removed. We then ensured that all data points were standardized. Standardization involves transforming data into usable information for analysis. It must be quantifiable, meaningful, and interpretable data that is free of any duplicate or irrelevant entries. Inaccuracies in this process could hinder the analysis of this data set and lead to false conclusions. Additionally, we ensured that all data entries were complete and double-checked that their format was consistent throughout.
+## Manipulation of the Data Set:
+There was little need for us to manipulate the data, but some rows were removed for possible misclassification. There were two incidents that were spatially located in the middle of Manhattan but were labeled as being in the Bronx, so those were removed. We then ensured that all data points were standardized. Standardization involves transforming data into usable information for analysis. It must be quantifiable, meaningful, and interpretable data that is free of any duplicate or irrelevant entries. Inaccuracies in this process could hinder the analysis of this data set and lead to false conclusions. Additionally, we ensured that all data entries were complete and double-checked that their format was consistent throughout. 
 
 ## Tableau Packaged Workbook
 The packaged workbook with the displayed visualizations is included in this repository.
